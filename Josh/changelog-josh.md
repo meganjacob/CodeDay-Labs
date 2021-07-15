@@ -11,3 +11,7 @@ While data measuring average points has the highest deviation, jitter measuremen
 **July 13, 2021** Created random forest model.
 
 The amount of trees included in the model is 100 by default, making the general accuracy of the forest tangible depending on the intervention of random size. Although general results are accurate, it would be effective to include other models that work in conjuction with the current one. Results convey a strong accuracy for data queries with an afflicted patient, but slight issues when it comes to healthy variants from normal cases. Greater jurisdiction in segregating deviant healthy patients and afflicted patients must be explored at a later date.
+
+**July 15, 2021** Created deep learning model.
+
+While the accuracy remains sub-par in regards to the other models observed, it's ability to define more modules can be experimented with to provide better results. It's possible to compound this model with some others to create a better subset of results.
