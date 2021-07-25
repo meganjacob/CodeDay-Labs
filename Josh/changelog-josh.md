@@ -17,3 +17,7 @@ While the accuracy remains sub-par in regards to the other models observed, it's
 **July 19, 2021** Updated random forest model.
 
 By creating a model that tests the settings of other models, it solidifies the ramdom forest model's hyperparameters and specifies them for the dataset given. Although both models demonstrate accurate results, the resulting optimization narrowed the standard deviation of the original and slightly increased its accuracy. Instilling its results with the other models should be an effective method to completing the project.
+
+**July 24, 2021** Prototype model created.
+
+The prototype model weighs the general accuracy of the data through a classification report and takes the individual decisions of the optimized models. Due to the weighting and large variability of models, the prototype proves greatly accurate with a 96% correct diagnosis.
